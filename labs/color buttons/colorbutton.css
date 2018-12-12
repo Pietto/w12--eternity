@@ -1,0 +1,20 @@
+#container{
+	border: 5px solid black;
+	margin: 0 auto;
+	padding: 20px;
+	width: 700px;
+	background-color: grey;
+}
+button{
+	height: 100px;
+	width: 120px;
+	margin: 10px;
+	font-size: 50px;
+	font-family: arial black;
+	background-color: #017E06;
+	border: 0px dotted transparent;
+}
+#button1{
+	background-color: black;
+	document.getElementById("game-container").style.background
+}
