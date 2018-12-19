@@ -1,0 +1,28 @@
+body{
+	background-color: grey;
+}
+#container{
+	border: 5px solid black;
+	margin: 0 auto;
+	padding: 20px;
+	width: 500px;
+	background-color: white;
+}
+button{
+	height: 40px;
+	width: 100px;
+	font-family: arial black, sans serif;
+	margin-left: 1px;
+	margin-right: 1px;
+	position: relative;
+	left: 20%
+}
+#button1{
+	background-color: #017E06;
+}
+#button2{
+	background-color: #FB0500;
+}
+#button3{
+	background-color: #0101F9;
+}

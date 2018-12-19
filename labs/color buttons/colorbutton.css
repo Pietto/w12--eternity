@@ -6,15 +6,12 @@
 	background-color: grey;
 }
 button{
-	height: 100px;
-	width: 120px;
-	margin: 10px;
-	font-size: 50px;
+	border: none;
+	margin: 15px;
+	width: 100px;
+	height: 50px;
+	color: #ffffff;
+	background-color: #008404;
+	font-size: 20px;
 	font-family: arial black;
-	background-color: #017E06;
-	border: 0px dotted transparent;
-}
-#button1{
-	background-color: black;
-	document.getElementById("game-container").style.background
 }
